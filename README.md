@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and C
 - 💞️ I’m looking to collaborate on (not sure)
 - 📫 How to reach me: email
-- ⚡ Fun fact: im learning to play guitar
+- ⚡ Fun fact: im learning to play guitar i guess
 
 <!---
 ItsJonutz/ItsJonutz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
